@@ -165,5 +165,5 @@ These ideas are intentionally **not part of MVP**, but documented for future pla
 
 ## Final Note
 
-This project prioritizes **clarity, usability, and maintainability**.  
+This project priorties are : **clarity, usability, and maintainability**.  
 By keeping the scope focused and the UX polished, the directory will feel professional, reliable, and ready to grow beyond its initial launch.
