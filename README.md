@@ -65,7 +65,8 @@ If these are met, the MVP is successful.
 - Complex personalization features
 
 These items can be captured in a future roadmap without impacting MVP delivery.
-PS: “If we include user accounts, I’d recommend limiting them to commenting only for MVP — simple login, simple comments, and optional admin approval. That keeps UX high and complexity manageable.”
+
+PS: If we include user accounts, I’d recommend limiting them to commenting only for MVP — simple login, simple comments, and optional admin approval. That keeps UX high and complexity manageable.
 
 ---
 
